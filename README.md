@@ -1,2 +1,2 @@
-# hymns-python3-tkinter
+# Hymns
 A hymns app built with python3 and tkinter
