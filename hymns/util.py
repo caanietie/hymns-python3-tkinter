@@ -1,7 +1,7 @@
 import sqlite3
 from os.path import dirname, abspath
 
-dbpath = abspath(dirname(__file__)+'/../data/hymns.sqlite3')
+dbpath = abspath(dirname(__file__)+'/data/hymns.sqlite3')
 
 
 def count_hymns():
